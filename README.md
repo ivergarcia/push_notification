@@ -1,4 +1,4 @@
-# flutter_app
+# app_notify
 
 A new Flutter application.
 
